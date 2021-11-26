@@ -1,0 +1,5 @@
+1. one to one
+2. one to several 
+3. T 568B (kabel straight)
+4. RJ11
+5. RP-TNC
